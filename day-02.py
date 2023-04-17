@@ -25,5 +25,3 @@ print("Hey", 6, 7, sep='/')  #Using Separator
 
 print("Hey", "Hello", '', end='welcome')
 print('',"to the show")
-
-
